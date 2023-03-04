@@ -1,0 +1,3 @@
+serial~=0.0.97
+pymysql~=1.0.2
+PyQt6~=6.4.2
